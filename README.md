@@ -5,6 +5,5 @@ A RESTful API for managing tasks with Flask, JWT authentication, and SQLite data
 # Features
 - User registration & login
 - JWT-based authentication
-- Create, read, update, delete tasks
-- Task filtering and pagination
+- Task creation
 - Modular project structure
